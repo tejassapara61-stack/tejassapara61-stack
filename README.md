@@ -26,35 +26,129 @@ I'm a passionate developer specializing in **AI-powered automation** and **intel
 
 ---
 
-## 💻 Tech Stack
+## 💻 Complete Tech Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🐍 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+</p>
 
-### AI & Automation
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocol&logoColor=white)
+### ⚛️ Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+</p>
 
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="45" height="45"/>
+</p>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### ⚙️ Automation & Workflows
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/31465727?s=200&v=4" alt="n8n" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="45" height="45"/>
+</p>
 
-### Specializations
-- **AI Agents** - Building intelligent autonomous systems
-- **SaaS Development** - Scalable cloud-based solutions
-- **RAG Systems** - Advanced retrieval-augmented generation
-- **Workflow Automation** - Complex n8n integrations
-- **API Development** - RESTful and GraphQL services
+### 🗄️ Backend & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+</p>
+
+### 🔌 APIs & Integration
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/>
+</p>
+
+### 🎨 Design Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="45" height="45"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+</p>
+
+### 🛠️ Other Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="45"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 [Mahi 1.0](https://github.com/tejassapara61-stack/mahi-1.0)
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/tejassapara61-stack/mahi-1.0?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/tejassapara61-stack/mahi-1.0?style=for-the-badge" />
+</div>
+
+**🎯 Project Overview:**
+> Advanced AI-powered automation system featuring intelligent workflows and multi-agent orchestration
+
+**🔧 Tech Stack:**
+- Python | AI Agents | n8n
+- RAG System | OpenAI
+- Firebase/Supabase Backend
+
+**✨ Key Features:**
+- 🤖 Multi-agent AI orchestration
+- 🔄 Automated workflow optimization
+- 📊 Real-time analytics dashboard
+- 🔌 Seamless API integrations
+- 🧠 Context-aware decision making
+
+**[View Project →](https://github.com/tejassapara61-stack/mahi-1.0)**
+
+---
+
+### 🌱 [Green-GO](https://github.com/tejassapara61-stack/green-GO)
+<div align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/tejassapara61-stack/green-GO?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/tejassapara61-stack/green-GO?style=for-the-badge" />
+</div>
+
+**🎯 Project Overview:**
+> Sustainable tech solution combining modern web technologies with eco-friendly practices
+
+**🔧 Tech Stack:**
+- React | Node.js
+- Firebase | RESTful API
+- Python Backend
+
+**✨ Key Features:**
+- 🌿 Environmental impact tracking
+- 📱 Responsive web application
+- 🔐 Secure authentication system
+- 📈 Data visualization
+- ⚡ Real-time updates
+
+**[View Project →](https://github.com/tejassapara61-stack/green-GO)**
 
 ---
 
@@ -71,38 +165,6 @@ current_projects = {
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I'm actively looking to collaborate on:
-
-- 🤖 **AI Agent Projects** - Building intelligent automation systems
-- ⚙️ **n8n Workflows** - Complex automation solutions
-- 💼 **SaaS Applications** - Scalable cloud services
-- 🔗 **API Integrations** - Connecting systems seamlessly
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 AI Agent Automation Hub
-> Intelligent automation system powered by AI agents and n8n workflows
-- **Tech Stack:** Python, n8n, OpenAI, RAG
-- **Features:** Multi-agent orchestration, automated decision-making, workflow optimization
-
-### 🔥 SaaS Template Engine
-> Scalable SaaS boilerplate with modern tech stack
-- **Tech Stack:** React, Firebase/Supabase, Python API
-- **Features:** Authentication, real-time database, payment integration
-
-### 📊 RAG-Powered Knowledge Base
-> Intelligent document retrieval and Q&A system
-- **Tech Stack:** Python, RAG, Vector DB, AI Models
-- **Features:** Semantic search, context-aware responses, document processing
-
-*🔗 Check out my pinned repositories below for more projects!*
-
----
-
 ## 🛠️ Services I Offer
 
 <table>
@@ -113,7 +175,7 @@ I'm actively looking to collaborate on:
       <br>Custom AI agents, RAG systems, and intelligent automation solutions
     </td>
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50" height="50" />
+      <img src="https://avatars.githubusercontent.com/u/31465727?s=200&v=4" width="50" height="50" />
       <br><b>n8n Automation</b>
       <br>Complex workflow automation, API integrations, and process optimization
     </td>
@@ -190,14 +252,36 @@ I actively contribute to the automation and AI community:
 
 ---
 
-## 📈 Coding Activity
+## 🤝 Let's Collaborate!
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+I'm actively looking to collaborate on:
+
+- 🤖 **AI Agent Projects** - Building intelligent automation systems
+- ⚙️ **n8n Workflows** - Complex automation solutions
+- 💼 **SaaS Applications** - Scalable cloud services
+- 🔗 **API Integrations** - Connecting systems seamlessly
+
+---
+
+## 📈 Coding Activity
 
 <div align="center">
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejassapara61-stack&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejassapara61-stack&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassapara61-stack&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejassapara61-stack&theme=radical&hide_border=true)
 
 </div>
 
@@ -212,6 +296,16 @@ I actively contribute to the automation and AI community:
 - [ ] Build a popular n8n community node
 - [ ] Grow developer community to 1K+ followers
 - [ ] Launch my own SaaS product
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=tejassapara61-stack&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  
+</div>
 
 ---
 
@@ -241,24 +335,12 @@ If you find my projects helpful:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejassapara61-stack&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassapara61-stack&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejassapara61-stack&theme=radical)
-
-</div>
-
----
-
 <div align="center">
   
   ### 💡 "Automating the future, one workflow at a time"
   
   ![Profile Views](https://komarev.com/ghpvc/?username=tejassapara61-stack&color=blueviolet&style=for-the-badge)
+  
+  ⭐️ From [tejassapara61-stack](https://github.com/tejassapara61-stack)
   
 </div>
