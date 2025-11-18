@@ -113,7 +113,7 @@ I'm actively looking to collaborate on:
       <br>Custom AI agents, RAG systems, and intelligent automation solutions
     </td>
     <td align="center" width="33%">
-      <img src="https://share.google/images/Qwifrbg4pxpiOp76u" width="50" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50" height="50" />
       <br><b>n8n Automation</b>
       <br>Complex workflow automation, API integrations, and process optimization
     </td>
