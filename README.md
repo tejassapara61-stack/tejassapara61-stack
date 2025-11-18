@@ -82,12 +82,162 @@ I'm actively looking to collaborate on:
 
 ---
 
+## 🏆 Featured Projects
+
+### 🤖 AI Agent Automation Hub
+> Intelligent automation system powered by AI agents and n8n workflows
+- **Tech Stack:** Python, n8n, OpenAI, RAG
+- **Features:** Multi-agent orchestration, automated decision-making, workflow optimization
+
+### 🔥 SaaS Template Engine
+> Scalable SaaS boilerplate with modern tech stack
+- **Tech Stack:** React, Firebase/Supabase, Python API
+- **Features:** Authentication, real-time database, payment integration
+
+### 📊 RAG-Powered Knowledge Base
+> Intelligent document retrieval and Q&A system
+- **Tech Stack:** Python, RAG, Vector DB, AI Models
+- **Features:** Semantic search, context-aware responses, document processing
+
+*🔗 Check out my pinned repositories below for more projects!*
+
+---
+
+## 🛠️ Services I Offer
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
+      <br><b>AI Development</b>
+      <br>Custom AI agents, RAG systems, and intelligent automation solutions
+    </td>
+    <td align="center" width="33%">
+      <img src="https://avatars.githubusercontent.com/u/31465727?s=200&v=4" width="50" height="50" />
+      <br><b>n8n Automation</b>
+      <br>Complex workflow automation, API integrations, and process optimization
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />
+      <br><b>SaaS Development</b>
+      <br>Full-stack web applications with modern frameworks and cloud services
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 Building AI Agents with n8n: A Complete Guide
+- 🔥 Firebase vs Supabase: Choosing the Right Backend
+- 📊 Implementing RAG Systems for Better AI Responses
+- ⚡ Automating Workflows: Best Practices with n8n
+<!-- BLOG-POST-LIST:END -->
+
+*Want me to write about a specific topic? [Drop me a message!](mailto:tejassapara61@gmail.com)*
+
+---
+
+## 🎓 Certifications & Learning Path
+
+```mermaid
+graph LR
+    A[Python Mastery] --> B[AI/ML Fundamentals]
+    B --> C[AI Agent Development]
+    C --> D[Advanced Automation]
+    B --> E[RAG Systems]
+    E --> F[Production AI Apps]
+    D --> F
+    style F fill:#ff6b6b
+```
+
+**Currently Pursuing:**
+- 🎯 Advanced AI Agent Architectures
+- 🎯 Firebase & Supabase Deep Dive
+- 🎯 Production-Grade RAG Systems
+- 🎯 Enterprise n8n Workflows
+
+---
+
+## 💡 What I'm Working On This Week
+
+```python
+weekly_goals = {
+    "monday": "Building multi-agent RAG system",
+    "tuesday": "n8n workflow optimization",
+    "wednesday": "Firebase authentication integration",
+    "thursday": "AI agent training pipeline",
+    "friday": "Open source contributions",
+    "weekend": "Learning new AI frameworks"
+}
+
+def get_current_focus():
+    return "Creating intelligent automation that scales 🚀"
+```
+
+---
+
+## 🌟 Open Source Contributions
+
+I actively contribute to the automation and AI community:
+
+- 🔧 **n8n Community Nodes** - Custom integrations and workflows
+- 🤖 **AI Agent Templates** - Reusable agent architectures
+- 📦 **Python Libraries** - Automation utilities and helpers
+- 📖 **Documentation** - Tutorials and implementation guides
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejassapara61-stack&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] Build and launch 3 production AI agents
+- [ ] Contribute to 10+ open source projects
+- [ ] Master Firebase & Supabase ecosystem
+- [ ] Create advanced RAG system framework
+- [ ] Build a popular n8n community node
+- [ ] Grow developer community to 1K+ followers
+- [ ] Launch my own SaaS product
+
+---
+
+## 🤝 Support My Work
+
+If you find my projects helpful:
+
+- ⭐ Star my repositories
+- 🍴 Fork and contribute
+- 📢 Share with your network
+- 💬 Provide feedback and suggestions
+
+---
+
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [Tejas Sapara](https://www.linkedin.com/in/tejass-shapra-48507b23a)
 - 📸 Instagram: [@tej__.09](https://www.instagram.com/tej__.09?igsh=MXJqbTB3bWxweHN4aw==)
 - 📧 Email: tejassapara61@gmail.com
 - 🐙 GitHub: [@tejassapara61-stack](https://github.com/tejassapara61-stack)
+
+**🤝 Open for:**
+- Freelance projects
+- Collaboration opportunities
+- Technical consulting
+- Speaking engagements
 
 ---
 
